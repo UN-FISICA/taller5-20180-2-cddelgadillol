@@ -3,7 +3,6 @@ import argparse
 from calc_mod import *
 
 
-
 if __name__ =="__main__":
     print("***")
    
